@@ -1,0 +1,14 @@
+body {
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 150%;
+  min-width: 1200px;
+  padding: 10px 27px;
+  background-color: #8aa;
+  color: white;
+}
+
+div, section, article, header, footer {
+  color: black;
+  margin-bottom: 20px;
+}
